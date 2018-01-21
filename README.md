@@ -1,9 +1,12 @@
 ## Business Statistics, Spring 2018
 
 ### Syllabus
+
 [Syllabus](Syllabus.pdf)
 
 ### Lecture Notes
+
+[Section 1](Lecture/Section1.pdf)
 
 You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
