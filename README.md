@@ -38,6 +38,26 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```r
+# Generate 5000 worlds, each simulate 20 years
+returns = matrix(rnorm(n = 5000*20, mean = 6, sd = 15), 
+                 nrow = 5000, ncol=20)/100
+total_wealth = apply(1+returns, 1, prod)
+```
+```r
+# Plotting
+d = density(total_wealth)
+plot(d, xlab="total wealth in $", ylab = "density",
+      main = "Total wealth in 20 years", xlim = c(0,20))
+abline(v = mean(total_wealth), col = 'red', lty=2)
+abline(v = median(total_wealth), col = 'blue', lty=2)
+legend("topright", 
+  legend = c(paste("mean ", round(mean(total_wealth),2)), 
+        paste("median ", round(median(total_wealth),2))), 
+       col = c('red', 'blue'), lty = c(2,2))
+```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
