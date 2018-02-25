@@ -43,8 +43,7 @@ Syntax highlighted code block
 returns = matrix(rnorm(n = 5000*20, mean = 6, sd = 15), 
                  nrow = 5000, ncol=20)/100
 total_wealth = apply(1+returns, 1, prod)
-```
-```r
+
 # Plotting
 d = density(total_wealth)
 plot(d, xlab="total wealth in $", ylab = "density",
