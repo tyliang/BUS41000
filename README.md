@@ -1,11 +1,9 @@
 ## Business Statistics, Spring 2018
 
 ### Instructor
-
 [Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
 
 ### Syllabus
-
 [Syllabus](Syllabus.pdf)
 
 ### Lecture Notes
