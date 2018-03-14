@@ -12,6 +12,18 @@
 
 [Section 2](Lecture/Section2.pdf)
 
+### Homework
+
+[Homework 1](Homework/HW1.pdf)
+
+[Homework 2](Homework/HW2.pdf)
+
+[Homework 3](Homework/HW3.pdf)
+
+[Homework 4](Homework/HW4.pdf)
+
+
+
 You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -40,7 +52,7 @@ Syntax highlighted code block
 
 ```r
 # Generate 5000 worlds, each simulate 20 years
-returns = matrix(rnorm(n = 5000*20, mean = 6, sd = 15), 
+returns = matrix(rnorm(n = 5000*20, mean = 6, sd = 15),
                  nrow = 5000, ncol=20)/100
 total_wealth = apply(1+returns, 1, prod)
 # Plotting
@@ -49,9 +61,9 @@ plot(d, xlab="total wealth in $", ylab = "density",
       main = "Total wealth in 20 years", xlim = c(0,20))
 abline(v = mean(total_wealth), col = 'red', lty=2)
 abline(v = median(total_wealth), col = 'blue', lty=2)
-legend("topright", 
-  legend = c(paste("mean ", round(mean(total_wealth),2)), 
-        paste("median ", round(median(total_wealth),2))), 
+legend("topright",
+  legend = c(paste("mean ", round(mean(total_wealth),2)),
+        paste("median ", round(median(total_wealth),2))),
        col = c('red', 'blue'), lty = c(2,2))
 ```
 
