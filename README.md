@@ -47,6 +47,17 @@
 
 [Salary Data](Datasets/SalaryData.xls)
 
+### R Scripts (optional)
+
+[Section 1](Rscript/Section1.R)
+
+[Section 2](Rscript/Section2.R)
+
+[Section 3](Rscript/Section3.R)
+
+[Section 4](Rscript/Section4.R)
+
+[Section 5](Rscript/Section5.R)
 
 
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing the materials.
