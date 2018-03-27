@@ -18,15 +18,24 @@
 
 ### Homework
 
-[Homework 1](Homework/HW1.pdf)
+[Homework 1](Homework/HW1.pdf) [Solution 1](Homework/HW1_sol.pdf)
 
-[Homework 2](Homework/HW2.pdf)
+[Homework 2](Homework/HW2.pdf) [Solution 2](Homework/HW2_sol.pdf)
 
-[Homework 3](Homework/HW3.pdf)
+[Homework 3](Homework/HW3.pdf) [Solution 3](Homework/HW3_sol.pdf)
 
-[Homework 4](Homework/HW4.pdf)
+[Homework 4](Homework/HW4.pdf) [Solution 4](Homework/HW4_sol.pdf)
 
 
+### Datasets
+
+[Shock Absorber Data](Datasets/shock.csv)
+
+[Apple, Intel, Safeway Data](Datasets/Apple_Intel_Safeways.xls)
+
+
+
+Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing the materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
