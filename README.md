@@ -33,7 +33,7 @@
 
 [Apple, Intel, Safeway Data](Datasets/Apple_Intel_Safeway.xls)
 
-[Profits](Dataset/Profits.csv)
+[Profits](Datasets/Profits.csv)
 
 [Zagat](Datasets/zagat.csv)
 
