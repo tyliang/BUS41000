@@ -18,20 +18,34 @@
 
 ### Homework
 
-[Homework 1](Homework/HW1.pdf) [Solution 1](Homework/HW1_sol.pdf)
+[Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
-[Homework 2](Homework/HW2.pdf) [Solution 2](Homework/HW2_sol.pdf)
+[Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf)
 
-[Homework 3](Homework/HW3.pdf) [Solution 3](Homework/HW3_sol.pdf)
+[Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf)
 
-[Homework 4](Homework/HW4.pdf) [Solution 4](Homework/HW4_sol.pdf)
+[Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
 
 ### Datasets
 
 [Shock Absorber Data](Datasets/shock.csv)
 
-[Apple, Intel, Safeway Data](Datasets/Apple_Intel_Safeways.xls)
+[Apple, Intel, Safeway Data](Datasets/Apple_Intel_Safeway.xls)
+
+[Profits](Dataset/Profits.csv)
+
+[Zagat](Datasets/zagat.csv)
+
+[Baseball](Datasets/RunsPerGame.csv)
+
+[Orion Bus](Datasets/Orion.xls)
+
+[Beauty](Datasets/BeautyData.csv)
+
+[Mid City](Datasets/MidCity.csv)
+
+[Salary Data](Datasets/SalaryData.xls)
 
 
 
