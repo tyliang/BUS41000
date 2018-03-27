@@ -12,11 +12,9 @@
 
 [Section 2](Lecture/Section2.pdf)
 
-[Section 3]
-<!-- (Lecture/Section3.pdf) -->
+[Section 3](Lecture/Section3.pdf)
 
-[Section 4]
-<!-- (Lecture/Section4.pdf) -->
+[Section 4](Lecture/Section4.pdf)
 
 ### Homework
 
