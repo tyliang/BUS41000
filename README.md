@@ -26,6 +26,9 @@
 
 [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
+Questions about the homework can be posted to Canvas Discussion section. TAs will answer
+them within 24-48 hrs during weekdays. Homework does not count towards the final grade, but I strongly recommend everyone to do *all the homework*.
+
 
 ### Datasets
 
