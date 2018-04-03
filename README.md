@@ -69,6 +69,10 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 Simpson's Paradox: [video](https://www.youtube.com/watch?v=ebEkn-BiW5k), [article](http://vudlab.com/simpsons/)
 
+Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+
+[Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
+
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
