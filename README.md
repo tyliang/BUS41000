@@ -52,7 +52,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 ### R Scripts (optional)
 
-[**Stock Hedge**](Lecture/StockHedge.html)
+New: [*Stock Hedge*](Lecture/StockHedge.html)
 
 [Section 1](Rscript/Section1.R)
 
