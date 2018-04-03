@@ -10,8 +10,6 @@
 
 [Section 1](Lecture/Section1.pdf)
 
-- [Stock Hedge](Lecture/StockHedge.html)
-
 [Section 2](Lecture/Section2.pdf)
 
 [Section 3](Lecture/Section3.pdf)
@@ -54,7 +52,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 ### R Scripts (optional)
 
-[Section 1](Rscript/Section1.R)
+[Section 1](Rscript/Section1.R), [Stock Hedge](Lecture/StockHedge.html)
 
 [Section 2](Rscript/Section2.R)
 
