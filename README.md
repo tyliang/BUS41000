@@ -28,6 +28,9 @@
 
 [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
+Questions about the homework can be posted to Canvas Discussion section. TAs will answer
+them within 24-48 hrs during weekdays. Homework does not count towards the final grade, but I strongly recommend everyone to do *all the homework*.
+
 
 ### Datasets
 
@@ -62,7 +65,17 @@
 <!-- [Section 5](Rscript/Section5.R) -->
 
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing the materials.
+### Other Fun Statistics
+
+[FiveThirtyEight article](http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/)
+
+Simpson's Paradox: [video](https://www.youtube.com/watch?v=ebEkn-BiW5k), [article](http://vudlab.com/simpsons/)
+
+Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+
+[Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
+
+Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
