@@ -10,6 +10,8 @@
 
 [Section 1](Lecture/Section1.pdf)
 
+- [Stock Hedge](Lecture/StockHedge.html)
+
 [Section 2](Lecture/Section2.pdf)
 
 [Section 3](Lecture/Section3.pdf)
@@ -57,7 +59,7 @@
 
 [Section 4](Rscript/Section4.R)
 
-[Section 5](Rscript/Section5.R)
+<!-- [Section 5](Rscript/Section5.R) -->
 
 
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing the materials.
