@@ -50,9 +50,15 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 [Salary Data](Datasets/SalaryData.xls)
 
+[S&P 500 cleaned](Datasets/SP500.csv)
+
+
+
 ### R Scripts (optional)
 
-New: [*Stock Hedge*](Lecture/StockHedge.html)
+[*Annual Return*](Lecture/AnnualReturn.html)
+
+[*Stock Hedge*](Lecture/StockHedge.html)
 
 [Section 1](Rscript/Section1.R)
 
