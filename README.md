@@ -83,6 +83,8 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/)
 
+[Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
+
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
