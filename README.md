@@ -89,6 +89,8 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [AI? Not yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 
+[XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
+
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
