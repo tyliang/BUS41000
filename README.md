@@ -91,6 +91,8 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
 
+[Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
+
 Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
