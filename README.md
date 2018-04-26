@@ -20,7 +20,7 @@
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
-[Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf)
+[Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 by TA](Homework/HW2-TA.pdf)
 
 [Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf)
 
