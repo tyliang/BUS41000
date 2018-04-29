@@ -16,6 +16,10 @@
 
 [Section 4](Lecture/Section4.pdf)
 
+### Practice Exam
+
+[Practice Midterm](Homework/practice_midterm.pdf)
+
 ### Homework
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)

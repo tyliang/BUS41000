@@ -1,0 +1,477 @@
+\documentclass[12pt]{article}
+\usepackage{natbib,amssymb,amsmath,amsthm,epsfig,color,url}
+
+\setlength{\topmargin}{-.7in}
+\setlength{\oddsidemargin}{0.3in}
+\setlength{\textwidth}{6.15in}
+\setlength{\textheight}{9.2in}
+\renewcommand{\baselinestretch}{1.2}
+
+\newcommand{\bs}[1]{\boldsymbol{#1}}
+\newcommand{\bm}[1]{\boldsymbol{#1}}
+\newcommand{\mc}[1]{\mathcal{#1}}
+\newcommand{\mr}[1]{\mathrm{#1}}
+\newcommand{\mbb}[1]{\mathbb{#1}}
+
+
+
+
+\begin{document}
+
+\title{\bf  Statistic Midterm}
+\date{\it Winter 2018} %change for each day.
+\maketitle{}
+
+
+
+\noindent This is a closed-book, closed-notes exam. You may use any calculator.  
+\vskip .3cm
+\noindent Please answer all problems in the space provided on the exam.  
+\vskip .3cm
+\noindent Read each question carefully and clearly present your answers.
+
+\vspace{0.5cm}
+\noindent{\bf Honor Code Pledge:} ``I pledge my honor that I have not
+violated the University Honor Code during this examination.''
+\vskip .7cm
+\noindent{\bf Signed: \underline{\hskip 12.3cm}} 
+\vskip 1.2cm
+\noindent{\bf Name: \underline{\hskip 12.3cm}}
+\vskip 0.5cm
+
+%\noindent{\bf Section: \underline{\hskip 12cm}}
+
+
+\vspace{0.5cm}
+
+\noindent Here are some useful formulas: 
+\begin{itemize}
+\item $E(a X + bY ) = a E(X) + b E(Y)$
+\item $Var(a X + bY) = a^2 Var(X) + b^2 Var(Y) + 2ab \times Cov(X,Y)$
+\item The standard error of $\bar{X}$ is defined as
+$
+s_{\bar{X}} = \sqrt{\frac{s^2_X}{n}}
+$
+where $s^2_X$ denotes the sample variance of $X$.
+
+\item The standard error for the difference in the averages between groups a and b is defined as:
+$$
+s_{(\bar{X}_a - \bar{X}_b)} = \sqrt{\frac{s^2_a}{n_a} + \frac{s^2_b}{n_b} }
+$$
+where $s^2_a$ denotes the sample variance of group $a$ and $n_a$ the number of observations in group $a$.
+
+
+\item The standard error for a proportion is defined by: 
+$
+s_{\hat{p}} = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
+$
+\end{itemize}
+
+\newpage
+
+\subsection*{Problem 1 (10 points each)}
+In recent years the NFL changed the extra point rule and moved the distance of the field goal attempt to 33 yards (as compared to the previous distance of 19 yards). A successful kick gives the team 1 extra point. Of course, teams have the option to try for 2 extra points by attempting a touchdown starting from the 2-yard line.  Currently, the probability of successful kicks from 33 yards is 0.93 whereas the probability of getting a touchdown from the 2-yard line is 0.48.
+
+\vspace{0.5cm}
+\begin{enumerate}
+\item As a general rule, over the course of a season, what should you do as a team? Go for 1 or 2 extra points? Justify your answer.
+
+\vspace{5cm}
+\item Now consider a situation where  your team just scored a touchdown to tie the game. There is only 1 second left on the clock meaning that your extra point conversion is the last play of the game. What should you do now? Go for 1 or 2 extra points? Justify your answer and contrast to your answer to the previous question.
+\end{enumerate}
+
+
+\newpage
+
+
+
+
+\subsection*{Problem 2 (10 points each)}
+
+The breathalyzers carried  by cops have a false positive rate of 5\%. However, they are perfect at detecting drunk drivers, i.e., the false negative probability is zero. Previous studies have concluded that on a Saturday night in Chicago, 1 in 500 drivers are drunk. Mayor Emmanuel decided to implement a policy of no-refusal, random traffic stops on saturday's. That means that random cars will be pulled over and their drivers tested. 
+
+\vspace{0.5cm}
+\noindent 1. On your way home on a Saturday night, your Uber driver gets randomly stopped. She tests positive for being drunk. Given this information, what is the probability she is drunk?
+
+\vspace{7cm}
+
+\noindent 2. Based on the numbers provided and your computation in question (1), do you agree or disagree with the Mayor's decision? Why or why not?
+
+
+\newpage
+
+
+
+\subsection*{Problem 3 (5 points each)}
+
+A construction company needs to complete a project within 11 weeks, or they will incur significant cost overruns, including penalties due to the client. The manager of the company has assessed that the project will take between 10 and 14 weeks to complete. The manager has also estimated the probability of each possible outcome:
+
+\begin{table}[h]
+\centering
+\label{my-label}
+\begin{tabular}{|l|l|}
+\hline
+Weeks to complete & Probability \\ \hline
+10    & 0.075        \\ \hline
+11    & 0.65         \\ \hline
+12    & 0.2        \\ \hline
+13    & 0.05         \\ \hline
+14    & 0.025         \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{enumerate}
+\item What is the probability of completing the project on time?
+\vspace{1.5cm}
+
+\item What is the expected value of the time to complete the project?
+\vspace{2cm}
+
+
+\item The company must pay a penalty of \$5,000 for {\bf every additional week (past 11 weeks) that they work}, plus a additional \$50,000 penalty if the work takes 14 weeks to complete. What is the expected value of the penalty incurred?
+\vspace{3cm}
+
+
+\item Suppose you're the engineer in charge of bidding for the projects in this company (i.e. estimating the total cost of the job, plus overhead, potential overrun costs and profit). How would you use the information from the previous question to price this job?
+\end{enumerate}
+
+\newpage
+
+
+
+
+
+\subsection*{Problem 4 (10 points each)}
+I am trying to build a portfolio composed of SP500 and Bonds. \\ Assume $SP500 \sim N(11,19^2)$ and $Bonds \sim N(4,6^2)$. In addition,  the covariance between SP500 and Bonds is -22.6. 
+
+\vspace{0.5cm}
+\begin{enumerate}
+\item Which portfolio is better: a 50-50 split between the two assets or a 60-40 split between SP500 and Bonds? Justify your criteria for comparison.
+\vspace{9cm}
+
+\item Which of the two portfolios considered in item (1) has the largest probability of delivering a negative return?
+
+\end{enumerate}
+
+\newpage
+
+
+
+
+\subsection*{Problem 5} 
+
+\vspace{0.5cm}
+
+I am trying to get into the insurance business. As a starter, I am going to sell the 2019 Booth MBA class an unemployment insurance policy that will pay a student \$100k if they don't get a job by the end of the program (by graduation time). From years and years of observing this program, I figured that the probability that a student does not get a job by the end of program is 0.5\%. Based on this number I decided to sell each policy for \$850.
+
+\vspace{0.1cm}
+
+
+
+\begin{enumerate}
+\item From the perspective of my insurance business, is that a good price? Justify your answer. (5 points)
+
+\vspace{6cm}
+
+\item It turns out that I was able to sell this policy to 1,000 students in the 2019 class! What is my expected profit at graduation time? (5 points)
+\newpage 
+\vspace{7cm}
+
+\item The standard deviation for the payout of one policy is approximately \$7k. What is the probability (approximately) that I will lose money by graduation time?  (hint: use the normal approximation... ). (10 points)
+\end{enumerate}
+
+
+\newpage
+
+
+
+
+
+
+\subsection*{Problem 6 (10 points each)}
+\vskip 1cm
+\noindent Amy, a former Booth MBA student, now the manager of Windy City Trading Strategies,  is trying to convince you to invest in the fund she runs. Based on the last two years of monthly returns, Amy provides you with the following summary of the performance of the fund:
+
+\noindent 
+
+\begin{table}[h!]
+\begin{tabular}{|l|l|}
+\hline
+Sample average& 2\% per month\\
+Sample std. deviation&2\% per month\\
+\hline 
+\end{tabular}
+\end{table} 
+
+\begin{enumerate}
+\item Based on these results, if you decide to invest in her fund, what is the probability you will lose money next month?
+\vspace{5cm}
+ \item  Before deciding to invest, you remember that Carlos told you that the monthly sharpe ratio  (mean/std. dev) of the market is 0.4.  Is the sharpe ratio of Amy's fund for sure better than that? (and ``for sure'' I mean, with 95\% confidence). Hint: first build a 95\% confidence interval for the mean of Amy's fund. 
+\end{enumerate}
+
+
+% \newpage
+% \subsection*{Problem 7 (10 points each)}
+% {\bf``The Patriots Defense Needs 30 Minutes To Figure Out How To Beat You''} \\An article from  \url{FiveThirtyEight.com}
+%
+% \vspace{0.5cm}
+%
+% \noindent An excerpt from the article:
+% {\it
+% There's a huge difference between the Pats defense that takes the field at the beginning of the game and the one that walks off the field (usually) victorious. Including both playoff games, the Patriots' first-half averages of 5.85 yards per play (30th) and 10.06 points allowed (11th) dropped to 5.43 yards per play (22nd) and 8.28 points allowed (2nd) in the second half. This suggests that even if Nick Foles and the Eagles move the ball early and put up points on Sunday, there's reason to believe Bill Belichick and defensive coordinator Matt Patricia will draw up a way to stop them before Justin Timberlake is finished bringing sexy back.
+% }
+%
+% \vspace{0.3cm}
+%
+% \noindent First, let's ignore the fact that the Eagles offense completely destroyed the Patriots throughout the game! Forget about that and let's focus on the argument made by the article regarding points allowed in the first-half compared to the second-half... The suggestion is that the Patriots defense is good at adapting and figuring out better ways to defend in the second-half.
+%
+% \vspace{0.3cm}
+%
+% \noindent 1. The article's conclusion is based on the fact that, in the 2017 season, the average number of points allowed by the Patriots in the first-half of games was 10.6 and 8.28 in the second-half. Explain in words (briefly) why is it not enough to agree with the article's conclusion based on the numbers presented.
+%
+% \vspace{4cm}
+%
+% \noindent 2. Now let me give you some additional information. The article's numbers are based on 18 games where the standard deviation of points allowed was 5.25 (first-half) and 4.75 (second-half). Using this extra information how would you evaluate the article's claim?
+
+
+
+
+
+
+
+
+\newpage
+
+\subsection*{Problem 7 (20 points)} 
+
+Your cognitive capacity is significantly reduced when your smartphone is within reach, even if it's off. That's the claim from a new study from the McCombs School of Business at The University of Texas at Austin.
+
+\vspace{0.1cm}
+\noindent Marketing Assistant Professor Adrian Ward conducted experiments with nearly 600 smartphone users in an attempt to measure, for the first time, how well people can complete tasks when they have their smartphones nearby even when they're not using them.
+
+\vspace{0.1cm}
+\noindent In one experiment, the researchers asked study participants to sit at a computer and perform a task that required full concentration in order to succeed. The tests were geared to measure participants' available cognitive capacity -- that is, the brain's ability to hold and process data at any given time. Before beginning, participants were randomly instructed to place their smartphones either on the desk face down (group 1; 200 participants), in their pockets (group 2; 200 participants), or in another room (group 3; 200 participants).  All participants were instructed to turn their phones to silent.
+
+\vspace{0.1cm}
+\noindent {\bf The researchers found that participants with their phones in another room significantly outperformed those with their phones on the desk, and they also slightly outperformed those participants who had kept their phones in the pocket.}
+
+\vspace{0.2cm}
+\noindent Based on the results from the experiment (listed below), do you agree with the statement from the above (bold) paragraph? Justify your answer.
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|c|c|c|}
+\hline
+&group 1 & group 2 & group 3 \\
+\hline
+Successful tasks & 90& 130& 150\\
+\hline
+\end{tabular}
+
+
+\newpage 
+\subsection*{Problem 8 (3 points each)}
+
+
+\vskip 1cm
+\noindent 
+{Assume the model:
+$Y = 5 -2X  + \varepsilon, \quad \varepsilon \sim \hspace{0.2cm} N(0,9^2)$}
+\vskip 1cm
+\begin{enumerate}
+\item What is expected value of $Y$ if $X=1$, i.e, $E[Y|X=1]$ ? 
+\begin{itemize}
+\item[(a)] 5
+\item[(b)] 3
+\item[(c)] 4
+\item[(d)] 6
+\end{itemize}
+
+\item What is the $Var[Y|X=0]$?
+\begin{itemize}
+\item[(a)] 9
+\item[(b)] 81
+\item[(c)] 3
+\item[(d)] 6
+\end{itemize}
+
+\item What is the $Pr(Y>10)$, given $X=2$?   
+\begin{itemize}
+\item[(a)] 13\%
+\item[(b)] 68\%
+\item[(c)] 16\%
+\item[(d)] 2.5\%
+\end{itemize}
+
+\item What is the $Pr(-6<Y<21)$, given $X=1$?
+\begin{itemize}
+\item[(a)] 5\%
+\item[(b)] 16\%
+\item[(c)] 81.5\%
+\item[(d)] 34\%
+\end{itemize}
+\end{enumerate}
+
+\newpage
+
+
+%
+%
+% \subsection*{Problem 9 (4 points each)}
+% Using data from Beijing 2008 and London 2012 I run a regression trying to understand the impact of {\bf GDP} (gross domestic product measured in billions of US\$) on the total number of medals won by a country in the summer Olympics. The results are
+%
+% \includegraphics[width=6in]{medalsGDP}
+%
+%
+% \vspace{0.0cm}
+%
+% \begin{description}
+% \item[(a)] What is the percentage of variation of total medals explained by {\bf GDP}?
+% \vspace{4cm}
+% \item[(b)] From the results, what is your prediction (best guess) for the total number of medals for the U.S. in the Rio 2016 Olympics, given that the U.S. current GDP is of 18.5 trillion of dollars?
+% \vspace{4cm}
+% \end{description}
+% \newpage
+% \noindent The following table shows the total medal count for a few countries in Rio 2016 Olympics along with their current GDP:
+% \begin{table}[h!]
+% \begin{tabular}{|l|l|l|}
+% \hline
+% Country & Total Medals & GDP (in US\$ billions) \\
+% \hline
+% U.S.& 121& 18,500\\
+% Great Britain&67 & 2,800\\
+% China&70 & 11,300\\
+% Brazil&19&1,600\\
+% \hline
+% \end{tabular}
+% \end{table}
+%
+% \noindent {\bf Using the results from the regression presented}, answer the following questions:
+% \begin{description}
+% \item[(c)] Conditional on their GDP, which of these countries performance in the Rio 2016 is not surprising? Why?
+% \vspace{5cm}
+% \item[(d)] Conditional on their GDP, which of these countries looks like a clear overachiever?
+% \vspace{5cm}
+% \item[(e)] Based on the predictions from this model, who did better, China or the U.S.?
+%
+% \end{description}
+%
+%
+\newpage
+
+\subsection*{Problem 9 (5 points each)}
+
+\begin{center}
+\includegraphics[width=6.6in]{Plots}
+\end{center}
+
+\noindent In the above scatterplots, four different variables $Y1$, $Y2$, $Y3$ and $Y4$ were regressed onto the same $X$ (in all four scatterplot we have the exact same $n=200$ values for X). Carefully examine the plots and answer the questions below:
+
+\begin{enumerate}
+\item The estimates of the slope ($b_1$) for the four regressions are listed below. Which one belongs to the regression of $Y3$ onto $X$?
+\begin{description}
+\item[(a)]-0.054
+\item[(b)]3.020
+\item[(c)]1.031 
+\item[(d)]-1.094
+\end{description}
+
+
+\item The estimates of the slope ($b_1$) for the four regressions are listed below. Which one belongs to the regression of $Y1$ into $X$?
+\begin{description}
+\item[(a)]-0.054
+\item[(b)]3.020
+\item[(c)]1.031 
+\item[(d)]-1.094
+\end{description}
+
+\vspace{1cm}
+
+\item The estimates of the intercept ($b_0$) for the four regressions are listed below. Which one belongs to the regression of $Y4$ into $X$?
+\begin{description}
+\item[(a)]-2.044
+\item[(b)]0.212
+\item[(c)]0.135 
+\item[(d)]1.951
+\end{description}
+
+\vspace{1cm}
+
+\item The standard errors of the regressions  ($s$) are listed below. Which one belongs to $Y3$?
+\begin{description}
+\item[(a)]0.52
+\item[(b)]0.49
+\item[(c)]1.51 
+\item[(d)]0.51
+\end{description}
+
+\vspace{1cm}
+
+ \item The $R^2$ of the regressions are listed below. Which one belongs to $Y2$?
+\begin{description}
+\item[(a)] 37\%
+\item[(b)] 81\%
+\item[(c)] 97 \%
+\item[(d)] 1 \%
+\end{description}
+
+\newpage
+
+\vspace{1cm}
+
+\item What is the correlation between $Y_1$ and $X$?
+\begin{description}
+\item[(a)]-0.12
+\item[(b)] 0.91
+\item[(c)] 0.97
+\item[(d)]-0.60
+\end{description}
+
+
+\item Using all the information provided so far, give a rough approximation of the 95\% prediction interval for $Y4$ when $X = 3$.
+
+\vspace{3cm}
+
+%\item Remember that the formula for $s^2_{b_1} = \frac{s^2}{(n-1)s_X^2}$ where $s_X^2$ is the sample variance of $X$. Test the hypothesis that $\beta_1 = 0$ in the regression of $Y1$ by building an approximation of the 95\% confidence interval for the slope. Hint: you will have to eyeball the sample variance of X from the plots using the fact that, approximately, 95\% of the points are within $\pm$ 2 sample standard deviations of the sample mean. 
+
+\item Give an approximation for $Pr(Y_3 > 0 | X = 2)$
+
+
+\end{enumerate}
+
+
+\newpage
+
+
+\subsection*{Problem 10 (5 points each)}
+
+\vspace{0.5cm}
+
+In trying to understand how good of an investor Warren Buffet is, I collected data on the annual returns (in percentage terms) of his entire portfolio and decided to compare it to the market (again, in percentage terms). In doing so I ran the following regression:
+
+$$
+WB = \alpha + \beta Market + \epsilon  \quad \quad  \epsilon \sim N(0,\sigma^2)
+$$
+where $WB$ refers to the annual returns on Buffet's portfolio and $Market$ refers to the annual returns on the U.S. stock market. The result of this regression is in the table below:
+
+\vspace{0.5cm}
+\includegraphics[width=4.5in]{Buffet.pdf}
+
+\vspace{0.5cm}
+\begin{enumerate}
+\item What is the expected value for the returns on Buffet's portfolio when the market is up 10\%?
+\vspace{5cm}
+
+\newpage
+\item What is the standard deviation for the returns on Buffet's portfolio when the market is up 10\%?
+\vspace{5cm}
+
+\item Give a 99\% prediction range for the returns on Buffet's portfolio when the market is up 10\%?
+\vspace{5cm}
+
+\item Provide an interpretation for both the intercept and the slope of this regression. What do these quantities tell us about Warren Buffet's performance, relative to the U.S. stock market? 
+
+\end{enumerate}
+
+
+\end{document}
