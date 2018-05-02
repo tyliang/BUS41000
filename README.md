@@ -18,7 +18,7 @@
 
 ### Practice Exam
 
-[Practice Midterm](Homework/practice_midterm.pdf)
+[Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
 
 ### Homework
 
