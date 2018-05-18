@@ -20,6 +20,8 @@
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
 
+[Spring Midterm Solution](Homework/spring18_midterm_solution.pdf)
+
 ### Homework
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
