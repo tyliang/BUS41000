@@ -431,6 +431,45 @@ summary(lm(portfolio ~ SP500, data = Apple_Intel_Safeway))</code></pre>
 ## Residual standard error: 6.11 on 64 degrees of freedom
 ## Multiple R-squared:  0.3647, Adjusted R-squared:  0.3449 
 ## F-statistic: 18.37 on 2 and 64 DF,  p-value: 4.953e-07</code></pre>
+<pre class="r"><code>summary(lm(Apple ~ Intel, data = Apple_Intel_Safeway))</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = Apple ~ Intel, data = Apple_Intel_Safeway)
+## 
+## Residuals:
+##      Min       1Q   Median       3Q      Max 
+## -17.8232  -4.1694   0.0334   4.7173  15.1552 
+## 
+## Coefficients:
+##             Estimate Std. Error t value Pr(&gt;|t|)   
+## (Intercept)   2.4996     0.8910   2.805  0.00662 **
+## Intel         0.4560     0.1323   3.447  0.00100 **
+## ---
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## 
+## Residual standard error: 6.995 on 65 degrees of freedom
+## Multiple R-squared:  0.1545, Adjusted R-squared:  0.1415 
+## F-statistic: 11.88 on 1 and 65 DF,  p-value: 0.001</code></pre>
+<pre class="r"><code>summary(lm(Apple ~ Intel + SP500, data = Apple_Intel_Safeway))</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = Apple ~ Intel + SP500, data = Apple_Intel_Safeway)
+## 
+## Residuals:
+##      Min       1Q   Median       3Q      Max 
+## -20.8081  -3.8464   0.6512   3.8519  16.0994 
+## 
+## Coefficients:
+##             Estimate Std. Error t value Pr(&gt;|t|)    
+## (Intercept)   1.8146     0.8351   2.173 0.033495 *  
+## Intel         0.1438     0.1473   0.976 0.332701    
+## SP500         0.8399     0.2262   3.713 0.000432 ***
+## ---
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## 
+## Residual standard error: 6.394 on 64 degrees of freedom
+## Multiple R-squared:  0.3044, Adjusted R-squared:  0.2826 
+## F-statistic:    14 on 2 and 64 DF,  p-value: 9.046e-06</code></pre>
 
 
 
