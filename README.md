@@ -16,6 +16,8 @@
 
 [Section 4](Lecture/Section4.pdf)
 
+[Section 5](Lecture/Section5.pdf)
+
 ### Practice Exam
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
