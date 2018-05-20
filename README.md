@@ -20,6 +20,8 @@
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
 
+[Spring Midterm Solution](Homework/spring18_midterm_solution.pdf)
+
 ### Homework
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
@@ -59,6 +61,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 
 ### R Scripts (optional)
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
 
 [*Annual Return*](Lecture/AnnualReturn.html)
 
