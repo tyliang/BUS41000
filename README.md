@@ -18,6 +18,8 @@
 
 [Section 5](Lecture/Section5.pdf)
 
+On week 10 (Jun 1st and 2nd), I will talk about data science, where ideas from statistics, machine learning and optimization interact. This material won't be required for the exam.
+
 ### Practice Exam
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
@@ -36,6 +38,27 @@
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. Homework does not count towards the final grade, but I strongly recommend everyone to do *all the homework*.
+
+
+### R Scripts (optional)
+[*Dummies and Interactions*](Lecture/dummy.html)
+
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
+
+[*Annual Return*](Lecture/AnnualReturn.html)
+
+[*Stock Hedge*](Lecture/StockHedge.html)
+
+[Section 1](Rscript/Section1.R)
+
+[Section 2](Rscript/Section2.R)
+
+[Section 3](Rscript/Section3.R)
+
+[Section 4](Rscript/Section4.R)
+
+[Section 5](Rscript/Section5.R)
+
 
 
 ### Datasets
@@ -62,24 +85,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 
 
-### R Scripts (optional)
-[*Dummies and Interactions*](Lecture/dummy.html)
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
-
-[*Annual Return*](Lecture/AnnualReturn.html)
-
-[*Stock Hedge*](Lecture/StockHedge.html)
-
-[Section 1](Rscript/Section1.R)
-
-[Section 2](Rscript/Section2.R)
-
-[Section 3](Rscript/Section3.R)
-
-[Section 4](Rscript/Section4.R)
-
-<!-- [Section 5](Rscript/Section5.R) -->
 
 
 ### Other Fun Statistics
