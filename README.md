@@ -20,6 +20,8 @@
 
 On week 10 (Jun 1st and 2nd), I will talk about data science, where ideas from statistics, machine learning and optimization interact. This material won't be required for the exam.
 
+[Week 10, Bonus](Lecture/Data_Science.html)
+
 ### Practice Exam
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
@@ -43,6 +45,8 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 
 ### R Scripts (optional)
+[*Week 10, Script*](Lecture/Data_Science_Script.html)
+
 [*Dummies and Interactions*](Lecture/dummy.html)
 
 [*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
