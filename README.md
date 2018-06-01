@@ -28,7 +28,7 @@ On week 10 (Jun 1st and 2nd), I will talk about data science, where ideas from s
 
 [Spring Midterm Solution](Homework/spring18_midterm_solution.pdf)
 
-[Practice Final](Homework/practice_final.pdf)
+[Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
 ### Homework
 
