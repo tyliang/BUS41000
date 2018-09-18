@@ -1,7 +1,10 @@
-## Business Statistics, Spring 2018
+## Business Statistics, Fall 2018
 
 ### Instructor
 [Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
+
+### TAs
+Jingyu He (jingyu.he at chicagobooth.edu) and Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
@@ -24,8 +27,6 @@
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
 
-[Spring Midterm Solution](Homework/spring18_midterm_solution.pdf)
-
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
 ### Homework
@@ -43,13 +44,13 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 
 ### R Scripts (optional)
-[*Week 10, Script*](Lecture/Data_Science_Script.html)
+<!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) 
 
 [*Dummies and Interactions*](Lecture/dummy.html)
 
 [*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
 
-[*Annual Return*](Lecture/AnnualReturn.html)
+[*Annual Return*](Lecture/AnnualReturn.html) --->
 
 [*Stock Hedge*](Lecture/StockHedge.html)
 
@@ -98,6 +99,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 Simpson's Paradox: [video](https://www.youtube.com/watch?v=ebEkn-BiW5k), [article](http://vudlab.com/simpsons/)
 
+<!---
 Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
@@ -116,7 +118,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
+Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. --->
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
