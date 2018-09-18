@@ -18,9 +18,7 @@
 
 [Section 5](Lecture/Section5.pdf)
 
-On week 10 (Jun 1st and 2nd), I will talk about data science, where ideas from statistics, machine learning and optimization interact. This material won't be required for the exam.
-
-[Week 10, Bonus](Lecture/Data_Science.html)
+[Week 10, Bonus]()
 
 ### Practice Exam
 
