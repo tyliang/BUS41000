@@ -4,7 +4,8 @@
 [Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
 
 ### TAs
-Jingyu He (jingyu.he at chicagobooth.edu) and Zhonglin Li (zhonglin.li at chicagobooth.edu)
+Jingyu He (jingyu.he at chicagobooth.edu) 
+Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
