@@ -5,6 +5,7 @@
 
 ### TAs
 Jingyu He (jingyu.he at chicagobooth.edu) 
+
 Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 ### Syllabus
