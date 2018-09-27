@@ -99,7 +99,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 [FiveThirtyEight article](http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/)
 
-Simpson's Paradox: [video](https://www.youtube.com/watch?v=ebEkn-BiW5k), [article](http://vudlab.com/simpsons/)
+Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
 <!---
 Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
