@@ -101,10 +101,11 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-<!---
 Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
+
+<!---
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/)
 
