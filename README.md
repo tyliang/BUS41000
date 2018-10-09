@@ -105,9 +105,9 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
-<!---
-
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/)
+
+<!---
 
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
