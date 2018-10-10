@@ -50,9 +50,9 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 [*Dummies and Interactions*](Lecture/dummy.html)
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) --->
 
-[*Annual Return*](Lecture/AnnualReturn.html) --->
+[*Annual Return*](Lecture/AnnualReturn.html) 
 
 [*Stock Hedge*](Lecture/StockHedge.html)
 
