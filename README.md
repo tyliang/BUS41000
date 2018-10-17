@@ -109,9 +109,10 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
-<!---
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
+
+<!---
 
 [AI? Not yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 
@@ -121,7 +122,9 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. --->
+--->
+
+Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. 
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
