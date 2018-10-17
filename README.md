@@ -107,9 +107,9 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/)
 
-<!---
-
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
+
+<!---
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
 
