@@ -31,6 +31,8 @@ Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
+[Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
+
 ### Homework
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
