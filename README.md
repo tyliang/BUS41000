@@ -33,6 +33,8 @@ Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 [Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
 
+[Final Solution](Homework/Final-Fall18-sol.pdf)
+
 ### Homework
 
 [Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
