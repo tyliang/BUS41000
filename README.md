@@ -1,12 +1,12 @@
-## Business Statistics, Fall 2018
+## Business Statistics, Fall 2019
 
 ### Instructor
 [Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
 
 ### TAs
-Jingyu He (jingyu.he at chicagobooth.edu) 
+Jingyu He (jingyu.he at chicagobooth.edu)
 
-Zhonglin Li (zhonglin.li at chicagobooth.edu)
+Yuexi Wang (yuexi.wang at chicagobooth.edu)
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
@@ -31,9 +31,9 @@ Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
-[Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
+<!-- [Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
 
-[Final Solution](Homework/Final-Fall18-sol.pdf)
+[Final Solution](Homework/Final-Fall18-sol.pdf) -->
 
 ### Homework
 
@@ -46,7 +46,7 @@ Zhonglin Li (zhonglin.li at chicagobooth.edu)
 [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
-them within 24-48 hrs during weekdays. Homework does not count towards the final grade, but I strongly recommend everyone to do *all the homework*.
+them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
 
 
 ### R Scripts (optional)
@@ -54,9 +54,9 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 [*Dummies and Interactions*](Lecture/dummy.html)
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) 
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
 
-[*Annual Return*](Lecture/AnnualReturn.html) 
+[*Annual Return*](Lecture/AnnualReturn.html)
 
 [*Stock Hedge*](Lecture/StockHedge.html)
 
@@ -125,7 +125,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. 
+Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
