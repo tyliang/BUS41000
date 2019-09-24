@@ -1,7 +1,7 @@
 ## Business Statistics, Fall 2019
 
 ### Instructor
-[Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
+[Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/)
 
 ### TAs
 Jingyu He (jingyu.he at chicagobooth.edu)
