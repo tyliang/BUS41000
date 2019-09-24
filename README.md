@@ -8,6 +8,8 @@ Jingyu He (jingyu.he at chicagobooth.edu)
 
 Yuexi Wang (yuexi.wang at chicagobooth.edu)
 
+Ridhika Agarwal (ridhika at chicagobooth.edu)
+
 ### Syllabus
 [Syllabus](Syllabus.pdf)
 
