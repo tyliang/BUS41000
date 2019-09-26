@@ -39,13 +39,17 @@ Ridhika Agarwal (ridhika at chicagobooth.edu)
 
 ### Homework
 
-[Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
+[Homework 1](Homework/HW1.pdf)
+<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
 
-[Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
+[Homework 2](Homework/HW2.pdf)
+<!-- , [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
-[Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf)
+[Homework 3](Homework/HW3.pdf)
+<!-- , [Solution 3](Homework/HW3_sol.pdf) -->
 
-[Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
+[Homework 4](Homework/HW4.pdf)
+<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
