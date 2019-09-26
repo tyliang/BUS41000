@@ -131,7 +131,7 @@ Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video
 
 
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
+<!-- Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. -->
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
