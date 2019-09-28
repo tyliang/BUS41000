@@ -1,12 +1,14 @@
-## Business Statistics, Fall 2018
+## Business Statistics, Fall 2019
 
 ### Instructor
-[Tengyuan Liang](http://faculty.chicagobooth.edu/Tengyuan.Liang/)
+[Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/)
 
 ### TAs
-Jingyu He (jingyu.he at chicagobooth.edu) 
+Jingyu He (jingyu.he at chicagobooth.edu)
 
-Zhonglin Li (zhonglin.li at chicagobooth.edu)
+Yuexi Wang (yuexi.wang at chicagobooth.edu)
+
+Ridhika Agarwal (ridhika at chicagobooth.edu)
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
@@ -31,22 +33,26 @@ Zhonglin Li (zhonglin.li at chicagobooth.edu)
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
-[Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
+<!-- [Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
 
-[Final Solution](Homework/Final-Fall18-sol.pdf)
+[Final Solution](Homework/Final-Fall18-sol.pdf) -->
 
 ### Homework
 
-[Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
+[Homework 1](Homework/HW1.pdf)
+<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
 
-[Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
+[Homework 2](Homework/HW2.pdf)
+<!-- , [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
-[Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf)
+[Homework 3](Homework/HW3.pdf)
+<!-- , [Solution 3](Homework/HW3_sol.pdf) -->
 
-[Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
+[Homework 4](Homework/HW4.pdf)
+<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
-them within 24-48 hrs during weekdays. Homework does not count towards the final grade, but I strongly recommend everyone to do *all the homework*.
+them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
 
 
 ### R Scripts (optional)
@@ -54,9 +60,9 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 [*Dummies and Interactions*](Lecture/dummy.html)
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) 
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
 
-[*Annual Return*](Lecture/AnnualReturn.html) 
+[*Annual Return*](Lecture/AnnualReturn.html)
 
 [*Stock Hedge*](Lecture/StockHedge.html)
 
@@ -105,7 +111,7 @@ them within 24-48 hrs during weekdays. Homework does not count towards the final
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+<!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
@@ -121,11 +127,11 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
-[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
+[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/) -->
 
 
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. 
+<!-- Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. -->
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
