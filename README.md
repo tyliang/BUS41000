@@ -111,12 +111,13 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-<!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/)
 
+<!-- 
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
@@ -131,7 +132,7 @@ Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video
 
 
 
-Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials.
+<!-- Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. -->
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
