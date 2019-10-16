@@ -39,8 +39,7 @@ Ridhika Agarwal (ridhika at chicagobooth.edu)
 
 ### Homework
 
-[Homework 1](Homework/HW1.pdf)
-<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
+[Homework 1](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
 [Homework 2](Homework/HW2.pdf)
 <!-- , [Solution 2](Homework/HW2_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
@@ -122,7 +121,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
 
-<!-- 
+<!--
 
 [AI? Not yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 
