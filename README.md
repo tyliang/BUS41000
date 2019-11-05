@@ -33,8 +33,9 @@ Ridhika Agarwal (ridhika at chicagobooth.edu)
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
-<!-- [Midterm Solution](Homework/Midterm-Fall18-solution.pdf)
+[Midterm Solution](Homework/midterm_fall19_solution.pdf)
 
+<!--
 [Final Solution](Homework/Final-Fall18-sol.pdf) -->
 
 ### Homework
