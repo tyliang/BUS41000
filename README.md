@@ -27,6 +27,8 @@ Ridhika Agarwal (ridhika at chicagobooth.edu)
 
 [Week 10, Bonus]()
 
+[Key Points](Review.txt)
+
 ### Practice Exam
 
 [Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)

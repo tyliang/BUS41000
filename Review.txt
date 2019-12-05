@@ -1,0 +1,69 @@
+Section 1
+
+1. Probability Distributions: Joint, Conditional, Marginal
+
+2. Bayes Formula
+
+3. Simpson's Paradox
+
+4. Expectation, Variance, Covariance, Correlation
+
+5. Probability -> Decisions
+
+
+Section 2
+
+1. Normal Distribution
+
+2. Estimate Population Mean and Proportion Based on Samples
+
+3. Sampling Distribution of Sample Mean and Sample Proportion
+
+4. Confidence Interval, Hypothesis Testing
+
+5. Construct Portfolios (Covariance, Correlation), Sharpe Ratio
+
+
+
+Section 3
+
+1. Simple Linear Regression (SLR) Model
+
+2. Property of Least Squares
+
+3. Information in Regression Table
+
+4. Statistical Inference and Interpretation of Coefficients
+
+5. Application of SLR: CAPM
+
+
+Section 4
+
+1. Multiple Linear Regression (MLR) Model
+
+2. Interpretation, Visualization and Estimation
+
+3. Inference about MLR: Uncertainty, T-test, and F-test
+
+4. Demystifying R^2
+
+5. Understand MLR vs. SLR (Correlation and Causation)
+
+6. Compare MLRs (Model Selection)
+
+
+Section 5
+
+1. Categorical Variables (Dummy)
+
+2. Case Study: Salary Discrimination (Compare Different MLRs)
+
+3. Multiple Categories
+
+4. Variable Interaction (Simplest Non-linear Model)
+
+5. A Complex Example via Housing Data (Interactions and Dummies)
+
+
+Advice: Focus on Intuition and Concepts.
