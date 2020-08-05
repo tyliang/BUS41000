@@ -1,14 +1,14 @@
 ## Business Statistics, Fall 2019
 
 ### Instructor
-[Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/)
+[Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
 
 ### TAs
-Jingyu He (jingyu.he at chicagobooth.edu)
+[Shuo-Chieh Huang](shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
 
-Yuexi Wang (yuexi.wang at chicagobooth.edu)
+[Yuexi Wang](yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu 
 
-Ridhika Agarwal (ridhika at chicagobooth.edu)
+[Alex Zhao](alexzhao@chicagobooth.edu), alexzhao@chicagobooth.edu
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
