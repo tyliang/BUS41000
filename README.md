@@ -1,4 +1,4 @@
-## Business Statistics, Fall 2019
+## Business Statistics, Fall 2020
 
 ### Instructor
 [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
@@ -31,9 +31,9 @@
 
 ### Practice Exam
 
-[Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
+[Practice Midterm](Homework/practice_midterm.pdf)<!-- , [Practice Solution](Homework/practice_midterm_solution.pdf) -->
 
-[Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
+[Practice Final](Homework/practice_final.pdf)<!-- , [Practice Solution](Homework/practice_final_solution.pdf) -->
 
 <!-- 
 [Midterm Solution](Homework/midterm_fall19_solution.pdf) -->
