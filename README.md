@@ -4,11 +4,11 @@
 [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
 
 ### TAs
-[Shuo-Chieh Huang](shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
+[Shuo-Chieh Huang](mailto:shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
 
-[Yuexi Wang](yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu 
+[Yuexi Wang](mailto:yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu 
 
-[Alex Zhao](alexzhao@chicagobooth.edu), alexzhao@chicagobooth.edu
+[Alex Zhao](mailto:alexzhao@chicagobooth.edu), alexzhao@chicagobooth.edu
 
 ### Syllabus
 [Syllabus](Syllabus.pdf)
