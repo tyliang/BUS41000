@@ -6,7 +6,7 @@
 ### TAs
 [Shuo-Chieh Huang](mailto:shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
 
-[Yuexi Wang](mailto:yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu 
+[Yuexi Wang](mailto:yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu
 
 [Alex Zhao](mailto:alexzhao@chicagobooth.edu), alexzhao@chicagobooth.edu
 
@@ -35,7 +35,7 @@
 
 [Practice Final](Homework/practice_final.pdf)<!-- , [Practice Solution](Homework/practice_final_solution.pdf) -->
 
-<!-- 
+<!--
 [Midterm Solution](Homework/midterm_fall19_solution.pdf) -->
 
 <!--
@@ -49,9 +49,9 @@
 
 <!-- [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
-<!-- [Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf) --> 
+<!-- [Homework 3](Homework/HW3.pdf), [Solution 3](Homework/HW3_sol.pdf) -->
 
-<!-- [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf) --> 
+<!-- [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf) -->
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
@@ -144,10 +144,6 @@ Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video
 
 
 
-
-
-
-<!-- Acknowledgement: Thanks to Dr. Carlos Carvalho for sharing many materials. -->
 
 <!-- You can use the [editor on GitHub](https://github.com/tyliang/BUS41000/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
