@@ -45,12 +45,13 @@
 
 [Homework 1](Homework/HW1.pdf)<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
 
-[Homework 2](Homework/HW2.pdf)<!-- , [Solution 2](Homework/HW2_sol.pdf),
-[Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
+[Homework 2](Homework/HW2.pdf)<!-- , [Solution 2](Homework/HW2_sol.pdf) -->
 
-[Homework 3](Homework/HW3.pdf)<!-- , [Solution 3](Homework/HW3_sol.pdf) -->
+<!-- [Solution Q1 and Q2 in R](Homework/HW2-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
-[Homework 4](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
+<!-- [Homework 3](Homework/HW3.pdf)<!-- , [Solution 3](Homework/HW3_sol.pdf) --> -->
+
+<!-- [Homework 4](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) --> -->
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
@@ -112,7 +113,7 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+<!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
@@ -129,7 +130,20 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
-[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
+[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
