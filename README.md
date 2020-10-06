@@ -58,13 +58,14 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 
 ### R Scripts (optional)
-<!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) --->
+<!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) 
 
 [*Dummies and Interactions*](Lecture/dummy.html)
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html)
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) --->
 
-[*Annual Return*](Lecture/AnnualReturn.html)
+
+[*Annual Return*](Lecture/AnnualReturn.html), [*Hint for Discussion*](Lecture/AnnualReturn-Student-File.zip)
 
 [*Stock Hedge*](Lecture/StockHedge.html)
 
