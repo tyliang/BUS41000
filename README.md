@@ -31,7 +31,7 @@
 
 ### Practice Exam
 
-[Practice Midterm](Homework/practice_midterm.pdf)<!-- , [Practice Solution](Homework/practice_midterm_solution.pdf) -->
+[Practice Midterm](Homework/practice_midterm.pdf), [Practice Solution](Homework/practice_midterm_solution.pdf)
 
 [Practice Final](Homework/practice_final.pdf)<!-- , [Practice Solution](Homework/practice_final_solution.pdf) -->
 
@@ -47,7 +47,7 @@
 
 [Homework 2](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf)
 
-[Homework 3](Homework/HW3.pdf)<!--, [Solution 3](Homework/HW3_sol.pdf) -->
+[Homework 3](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip)<!--, [Solution 3](Homework/HW3_sol.pdf) -->
  <!-- [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
 [Homework 4](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
@@ -61,10 +61,9 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 ### R Scripts (optional)
 <!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) 
 
-[*Dummies and Interactions*](Lecture/dummy.html)
+[*Dummies and Interactions*](Lecture/dummy.html)--->
 
-[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) --->
-
+[*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) 
 
 [*Annual Return*](Lecture/AnnualReturn.html), [*Hint for Discussion*](Lecture/AnnualReturn-Student-File.zip)
 
