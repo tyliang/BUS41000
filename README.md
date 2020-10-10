@@ -52,6 +52,8 @@
 
 [Homework 4](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
 
+[Homework 5](Homework/HW5.pdf)<!-- , [Solution 5](Homework/HW5_sol.pdf) -->
+
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
 
@@ -119,7 +121,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/), [and more](https://openintro.shinyapps.io/CLT_prop/)
 
-<!-- 
+
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
@@ -128,6 +130,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
 
+<!-- 
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/) -->
