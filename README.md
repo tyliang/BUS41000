@@ -50,7 +50,7 @@
 [Homework 3](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip), [Solution 3](Homework/HW3_sol.pdf)
 [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
 
-[Homework 4](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
+[Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
 [Homework 5](Homework/HW5.pdf)<!-- , [Solution 5](Homework/HW5_sol.pdf) -->
 
