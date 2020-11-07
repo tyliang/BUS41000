@@ -52,7 +52,7 @@
 
 [Homework 4](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
 
-[Homework 5](Homework/HW5.pdf)<!-- , [Solution 5](Homework/HW5_sol.pdf) -->
+[Homework 5](Homework/HW5.pdf), [Solution 5](Homework/HW5_sol.pdf)
 
 [Homework 6](Homework/HW6.pdf)<!-- , [Solution 6](Homework/HW6_sol.pdf) -->
 
@@ -65,9 +65,9 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 
 ### R Scripts (optional)
-<!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) 
+<!--- [*Week 10, Script*](Lecture/Data_Science_Script.html) --->
 
-[*Dummies and Interactions*](Lecture/dummy.html)--->
+[*Dummies and Interactions*](Lecture/dummy.html)
 
 [*SLR and MLR*](Lecture/Apple_Intel_Safeway.html) 
 
