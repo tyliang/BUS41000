@@ -27,7 +27,7 @@
 
 <!-- [Week 10, Bonus]() -->
 
-<!-- [Key Points](Review.txt) -->
+[Key Points](Review.txt)
 
 ### Practice Exam
 
