@@ -118,6 +118,8 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 [FiveThirtyEight article](http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/)
 
+[COVID-19 Prevalence Rate](https://www.nih.gov/news-events/news-releases/nih-study-suggests-covid-19-prevalence-far-exceeded-early-pandemic-cases)
+
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
 <!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
