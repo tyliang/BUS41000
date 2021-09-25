@@ -1,7 +1,5 @@
 ## Business Statistics, Fall 2021
 
-![Booth Logo](/booth_logo.png)
-
 ### Instructor
 [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
 
