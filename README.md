@@ -1,8 +1,8 @@
 ## Business Statistics, Fall 2021
 
-![Booth Logo](/booth_logo.png)
+<!-- ![Booth Logo](/booth_logo.png) -->
 
-<img src="https://tyliang.github.io/BUS41000/booth_logo.png" width="200"/>
+<img src="https://tyliang.github.io/BUS41000/booth_logo.png" width="374"/>
 
 ### Instructor
 [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
