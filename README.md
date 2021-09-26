@@ -2,6 +2,8 @@
 
 ![Booth Logo](/booth_logo.png)
 
+<img src="https://tyliang.github.io/BUS41000/booth_logo.png" width="200"/>
+
 ### Instructor
 [Tengyuan Liang](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
 
