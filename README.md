@@ -47,7 +47,7 @@
 
 ### Homework
 
-[**Homework 1**](Homework/HW1.pdf)<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
+[**Homework 1**](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
 [**Homework 2**](Homework/HW2.pdf)<!-- , [Solution 2](Homework/HW2_sol.pdf) -->
 
@@ -128,11 +128,12 @@ Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video
 
 Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
-<!-- 
+
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/), [and more](https://openintro.shinyapps.io/CLT_prop/)
 
+<!-- 
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
