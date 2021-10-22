@@ -51,8 +51,7 @@
 
 [**Homework 2**](Homework/HW2.pdf), [Solution 2](Homework/HW2_sol.pdf)
 
-[**Homework 3**](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip), [Solution 3](Homework/HW3_sol.pdf)
-[Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
+[**Homework 3**](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip), [Solution 3](Homework/HW3_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
 
 [**Homework 4**](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
 
