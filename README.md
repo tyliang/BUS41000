@@ -39,10 +39,7 @@
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
-[Midterm Statistics](Homework/Midterm_hist.jpeg)
-
-<!--
-[Midterm Solution](Homework/midterm_fall19_solution.pdf) -->
+[Midterm Statistics](Homework/Midterm_hist.jpeg), [Midterm Solution](Homework/Midterm-Fall21-Solution.pdf)
 
 <!--
 [Final Solution](Homework/Final-Fall18-sol.pdf) -->
