@@ -142,6 +142,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/) 
 
+[XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/)
 
 
 
