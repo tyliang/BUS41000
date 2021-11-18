@@ -56,7 +56,7 @@
 
 [**Homework 5**](Homework/HW5.pdf), [Solution 5](Homework/HW5_sol.pdf)
 
-[**Homework 6**](Homework/HW6.pdf)<!-- , [Solution 6](Homework/HW6_sol.pdf) -->
+[**Homework 6**](Homework/HW6.pdf), [Solution 6](Homework/HW6_sol.pdf)
 
 [**Homework 7**](Homework/HW7.pdf)<!-- , [Solution 7](Homework/HW7_sol.pdf) -->
 
