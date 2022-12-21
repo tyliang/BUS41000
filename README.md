@@ -1,4 +1,4 @@
-## Business Statistics, Fall 2021
+## Business Statistics, Winter 2023
 
 <!-- ![Booth Logo](/booth_logo.png) -->
 
@@ -10,9 +10,7 @@
 ### TAs
 [**Shuo-Chieh Huang**](mailto:shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
 
-[**Yuexi Wang**](mailto:yuexi.wang@chicagobooth.edu), yuexi.wang@chicagobooth.edu
-
-[**Alex Zhao**](mailto:alexzhao@chicagobooth.edu), alexzhao@chicagobooth.edu
+[**Ningyin (Ariel) Xu**](mailto:arielnxu@chicagobooth.edu),  arielnxu@chicagobooth.edu
 
 ### Syllabus
 [**Syllabus**](Syllabus.pdf)
