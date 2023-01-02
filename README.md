@@ -37,7 +37,7 @@
 
 [Practice Final](Homework/practice_final.pdf), [Practice Solution](Homework/practice_final_solution.pdf)
 
-[Midterm Statistics](Homework/Midterm_hist.jpeg)<!-- , [Midterm Solution](Homework/Midterm-Fall21-Solution.pdf) -->
+<!-- [Midterm Statistics](Homework/Midterm_hist.jpeg), [Midterm Solution](Homework/Midterm-Fall21-Solution.pdf) -->
 
 <!--
 [Final Solution](Homework/Final-Fall18-sol.pdf) -->
@@ -122,7 +122,7 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+<!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
@@ -138,10 +138,10 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
-[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/) 
+[Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
 
 [XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/)
-
+ -->
 
 
 
