@@ -46,7 +46,7 @@
 
 [**Homework 1**](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
-[**Homework 2**](Homework/HW2.pdf)<!-- , [Solution 2](Homework/HW2_sol.pdf) -->
+[**Homework 2**](Homework/HW2.pdf) , [Solution 2](Homework/HW2_sol.pdf)
 
 [**Homework 3**](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip)<!-- , [Solution 3](Homework/HW3_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
@@ -126,10 +126,8 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
-
 [Demonstration of Normal Approximation/CLT](https://gallery.shinyapps.io/CLT_mean/), [and more](https://openintro.shinyapps.io/CLT_prop/)
-
-<!-- 
+ 
 [Demonstration of Confidence Interval](https://shiny.rit.albany.edu/stat/confidence/)
 
 [Chicago Booth Review Article](http://review.chicagobooth.edu/economics/2016/video/why-cant-we-close-gender-gap)
@@ -138,6 +136,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
 
+<!--
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
