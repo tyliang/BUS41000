@@ -44,21 +44,21 @@
 
 ### Homework
 
-[**Homework 1**](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
+[**Homework 1**](Homework/HW1.pdf)<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
 
-[**Homework 2**](Homework/HW2.pdf) , [Solution 2](Homework/HW2_sol.pdf)
+[**Homework 2**](Homework/HW2.pdf) <!-- , [Solution 2](Homework/HW2_sol.pdf) -->
 
-[**Homework 3**](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip), [Solution 3](Homework/HW3_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx)
+[**Homework 3**](Homework/HW3.pdf), [Hint for Homework 3](Homework/HW3_hint.zip)<!-- , [Solution 3](Homework/HW3_sol.pdf), [Solution Q1 and Q2 in R](Homework/HW3-TA.pdf), [Q1 in Excel](Homework/Question1.xlsx), [Q2 in Excel](Homework/Question2.xlsx) -->
 
-[**Homework 4**](Homework/HW4.pdf), [Solution 4](Homework/HW4_sol.pdf)
+[**Homework 4**](Homework/HW4.pdf)<!-- , [Solution 4](Homework/HW4_sol.pdf) -->
 
-[**Homework 5**](Homework/HW5.pdf), [Solution 5](Homework/HW5_sol.pdf)
+[**Homework 5**](Homework/HW5.pdf)<!-- , [Solution 5](Homework/HW5_sol.pdf) -->
 
-[**Homework 6**](Homework/HW6.pdf), [Solution 6](Homework/HW6_sol.pdf)
+[**Homework 6**](Homework/HW6.pdf)<!-- , [Solution 6](Homework/HW6_sol.pdf) -->
 
-[**Homework 7**](Homework/HW7.pdf), [Solution 7](Homework/HW7_sol.pdf)
+[**Homework 7**](Homework/HW7.pdf)<!-- , [Solution 7](Homework/HW7_sol.pdf) -->
 
-[**Homework 8**](Homework/HW8.pdf), [Solution 8](Homework/HW8_sol.pdf)
+[**Homework 8**](Homework/HW8.pdf)<!-- , [Solution 8](Homework/HW8_sol.pdf) -->
 
 Questions about the homework can be posted to Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
