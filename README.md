@@ -8,9 +8,9 @@
 [**Tengyuan Liang**](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
 
 ### TAs
-[**Shuo-Chieh Huang**](mailto:shuochieh@chicagobooth.edu), shuochieh@chicagobooth.edu
+[**Walter Zhang**](mailto:walterwzhang@chicagobooth.edu), (Doctoral Candidate, Quant Marketing), walterwzhang@chicagobooth.edu
 
-[**Ningyin (Ariel) Xu**](mailto:arielnxu@chicagobooth.edu),  arielnxu@chicagobooth.edu
+[**Wenxuan Guo**](mailto:wxguo@chicagobooth.edu), (Doctoral Candidate, Econometrics and Statistics), wxguo@chicagobooth.edu
 
 ### Syllabus
 [**Syllabus**](Syllabus.pdf)
