@@ -1,4 +1,4 @@
-## Business Statistics, Winter 2023
+## Business Statistics, Winter 2024
 
 <!-- ![Booth Logo](/booth_logo.png) -->
 
