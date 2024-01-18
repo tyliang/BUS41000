@@ -44,7 +44,7 @@
 
 ### Homework
 
-[**Homework 1**](Homework/HW1.pdf)<!-- , [Solution 1](Homework/HW1_sol.pdf) -->
+[**Homework 1**](Homework/HW1.pdf), [Solution 1](Homework/HW1_sol.pdf)
 
 [**Homework 2**](Homework/HW2.pdf) <!-- , [Solution 2](Homework/HW2_sol.pdf) -->
 
