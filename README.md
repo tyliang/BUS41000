@@ -116,6 +116,8 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 ### Other Fun Statistics
 
+[Seeing Theory](https://seeing-theory.brown.edu/)
+
 [FiveThirtyEight article](http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/)
 
 [COVID-19 prevalence rate](https://www.nih.gov/news-events/news-releases/nih-study-suggests-covid-19-prevalence-far-exceeded-early-pandemic-cases)
