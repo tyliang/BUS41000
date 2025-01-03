@@ -5,7 +5,7 @@
 <img src="https://tyliang.github.io/BUS41000/booth_logo.png" width="374"/>
 
 ### Instructor
-[**Tengyuan Liang**](https://tyliang.github.io/Tengyuan.Liang/), firstname.lastname@chicagobooth.edu
+[**Tengyuan Liang**](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang), firstname.lastname@chicagobooth.edu, JP Gan Professor of Econometrics and Statistics
 
 ### TAs
 <!-- [**Walter Zhang**](mailto:walterwzhang@chicagobooth.edu), (Doctoral Candidate, Quant Marketing), walterwzhang@chicagobooth.edu -->
