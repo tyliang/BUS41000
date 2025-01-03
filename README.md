@@ -10,7 +10,7 @@
 ### TAs
 <!-- [**Walter Zhang**](mailto:walterwzhang@chicagobooth.edu), (Doctoral Candidate, Quant Marketing), walterwzhang@chicagobooth.edu -->
 
-[**Wenxuan Guo**](mailto:wxguo@chicagobooth.edu), (Doctoral Candidate, Econometrics and Statistics), wxguo@chicagobooth.edu
+[**Wenxuan Guo**](mailto:wxguo@chicagobooth.edu), wxguo@chicagobooth.edu, Doctoral Candidate, Econometrics and Statistics
 
 ### Syllabus
 [**Syllabus**](Syllabus.pdf)
