@@ -56,13 +56,11 @@
 
 [**Homework 6**](Homework/HW6.pdf), [Solution 6](Homework/HW6_sol.pdf)
 
-[**Homework 7**](Homework/HW7.pdf)
-<!-- , [Solution 7](Homework/HW7_sol.pdf) -->
+[**Homework 7**](Homework/HW7.pdf), [Solution 7](Homework/HW7_sol.pdf)
 
-[**Homework 8**](Homework/HW8.pdf)
-<!-- , [Solution 8](Homework/HW8_sol.pdf) -->
+[**Homework 8**](Homework/HW8.pdf), [Solution 8](Homework/HW8_sol.pdf)
 
-Questions about the homework can be posted to Canvas Discussion section. TAs will answer
+Questions about the homework can be posted to the Canvas Discussion section. TAs will answer
 them within 24-48 hrs during weekdays. I recommend everyone to do *all the homework*.
 
 
