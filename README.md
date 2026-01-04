@@ -19,7 +19,7 @@ Doctoral Candidate, Econometrics and Statistics
 
 ### Lecture Notes
 
-[**Section 1**](Lecture/Section1.pdf)
+[**Section 1**](Lecture/Section1_Updated.pdf)
 
 [**Section 2**](Lecture/Section2.pdf)
 
