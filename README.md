@@ -133,7 +133,7 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 Simpson's Paradox: [video1](https://www.youtube.com/watch?v=ebEkn-BiW5k), [video2](https://www.youtube.com/watch?time_continue=9&v=E_ME4P9fQbo)
 
-Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
+<!-- Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation), [game](http://guessthecorrelation.com/)
 
 [Spurious Correlation](http://www.tylervigen.com/spurious-correlations)
 
@@ -151,7 +151,7 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
 
-[XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/)
+[XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/) -->
 
 
 
