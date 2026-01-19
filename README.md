@@ -21,7 +21,7 @@ Doctoral Candidate, Econometrics and Statistics
 
 [**Section 1**](Lecture/Section1_Updated.pdf)
 
-[**Section 2**](Lecture/Section2.pdf)
+[**Section 2**](Lecture/Section2_Updated.pdf)
 
 [**Section 3**](Lecture/Section3.pdf)
 
