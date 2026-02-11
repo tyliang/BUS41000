@@ -76,6 +76,10 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 [*Dummies and Interactions*](Lecture/dummy.pdf)
 
+[*Bitcoin as Digital Gold?*](Rscript/download_bitcoin_vs_SP500_data.R)
+
+[*Gold Hedges Market Risk*](Rscript/download_gold_vs_SP500_data.R)
+
 [*SLR and MLR*](Lecture/Apple_Intel_Safeway.pdf) 
 
 [*Annual Return*](Lecture/AnnualReturn.html), [*Hint for Discussion*](Lecture/AnnualReturn-Student-File.zip)
