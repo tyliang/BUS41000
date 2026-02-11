@@ -145,13 +145,11 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
 
-<!--
-
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
 
-[XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/) -->
+[XKCD, slope hypothesis testing, can you figure out why?](https://xkcd.com/2533/)
 
 
 
