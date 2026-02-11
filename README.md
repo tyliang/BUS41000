@@ -100,6 +100,10 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 ### Datasets
 
+[Bitcoin vs S&P 500 Data](Datasets/bitcoin_sp500_data.csv)
+
+[Gold vs S&P 500 Data](Datasets/gold_sp500_data.csv)
+
 [Shock Absorber Data](Datasets/shock.csv)
 
 [Apple, Intel, Safeway Data](Datasets/Apple_Intel_Safeway.xls)
