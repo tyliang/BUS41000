@@ -145,6 +145,8 @@ Guessing Correlation: [wiki](https://en.wikipedia.org/wiki/Guess_the_Correlation
 
 [XKCD, hypothesis testing, can you get the point?](https://xkcd.com/882/)
 
+[Zillow's iBuying failure](https://www.gsb.stanford.edu/insights/flip-flop-why-zillows-algorithmic-home-buying-venture-imploded)
+
 [Moneyball](https://www.youtube.com/watch?v=yGf6LNWY9AI)
 
 [Simple Linear Regression App, play!](https://gallery.shinyapps.io/simple_regression/)
