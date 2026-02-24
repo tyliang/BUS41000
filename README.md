@@ -25,7 +25,7 @@ Doctoral Candidate, Econometrics and Statistics
 
 [**Section 3**](Lecture/Section3_Updated.pdf)
 
-[**Section 4**](Lecture/Section4.pdf)
+[**Section 4**](Lecture/Section4_Updated.pdf)
 
 [**Section 5**](Lecture/Section5.pdf)
 
@@ -72,11 +72,13 @@ them within 24-48 hrs during weekdays. I recommend everyone to do *all the homew
 
 ### R Scripts (optional)
 
-[*Dummies and Interactions*](Lecture/dummy.pdf)
+[*3D Interactive Visualization of MLR*](Rscript/MLR-3D.R)
 
 [*Bitcoin as Digital Gold?*](Rscript/download_bitcoin_vs_SP500_data.R)
 
 [*Gold Hedges Market Risk*](Rscript/download_gold_vs_SP500_data.R)
+
+[*Dummies and Interactions*](Lecture/dummy.pdf)
 
 [*SLR and MLR*](Lecture/Apple_Intel_Safeway.pdf) 
 
