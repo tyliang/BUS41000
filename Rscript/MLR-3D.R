@@ -4,6 +4,7 @@ library(broom)
 library(plotly)
 
 data(mtcars)
+mtcars$car <- rownames(mtcars)
 str(mtcars)
 
 # Markers and plane
@@ -30,8 +31,11 @@ rm(d, grid, vals)
 
 # Plot
 # Note: For add_surface, x and y should be the unique vectors defining the grid axes.
-p <- plot_ly(data = mtcars, x = ~wt, y = ~hp, z = ~mpg, opacity = 0.6) %>%
-  add_markers() 
+p <- plot_ly(data = mtcars, x = ~wt, y = ~hp, z = ~mpg, opacity = 0.6,
+             text = ~car, hoverinfo = "text+x+y+z") %>%
+  add_markers() %>%
+  add_text(text = ~car, textposition = "top center",
+           textfont = list(size = 9), showlegend = FALSE)
 
 p %>% add_surface(x = ~wt_seq, y = ~hp_seq, z = ~plane, showscale = FALSE) %>%
   layout(showlegend = FALSE)
